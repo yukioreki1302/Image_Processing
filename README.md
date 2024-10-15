@@ -8,6 +8,8 @@ Giới thiệu
 - Biến đổi tuyến tính từng đoạn (Piecewise Linear Transformation)
 - Biến đổi mặt phẳng bit (Bit Plane Slicing)
 - Phân ngưỡng ảnh (Thresholding)
+
+
 Ảnh sau khi xử lý sẽ được hiển thị trực tiếp trên giao diện và lưu lại trong thư mục static.
 
 Yêu cầu hệ thống
